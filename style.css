@@ -41,7 +41,7 @@ header h2 {
 
 footer {
 	background-color: #403933;
-	background-image:url(images/backgrounds/subtle-vintage-green-pattern0);
+	background-image:url(images/backgrounds/subtle-vintage-green-pattern);
 
 }
 
@@ -53,7 +53,7 @@ section {
 /* -------  Type ------- */
 
 h1, h2, h3 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
 	color: #403933;
   text-align: center;
   font-weight: 500;
