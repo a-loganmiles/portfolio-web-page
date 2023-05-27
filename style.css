@@ -11,7 +11,7 @@
 
 body {
   margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica', 'Arial', sans-serif;
 	background-image:url(images/backgrounds/blue-green-watercolor-background.png);
 }
 
@@ -22,7 +22,7 @@ header {
 }
 
 .logo {
-  font-family: 'Montserrat', cursive;
+  font-family: 'Handlee', cursive;
   font-size: 72px;
   color: #c5c0b8;
   text-align: center;
