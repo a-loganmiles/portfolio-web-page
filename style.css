@@ -39,6 +39,16 @@ header h2 {
   text-align: center;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  border: 1px solid #c5c0b8;
+}
+
 footer {
   background-color: #403933;
   background-image:url(images/backgrounds/light-woodgrain-background.jpg);
