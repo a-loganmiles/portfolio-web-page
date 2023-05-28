@@ -134,3 +134,7 @@ text-align: center;
 .no-margin-top {
 margin-top: 0;
 }
+
+ol { 
+padding-inline-start: 0; 
+} 
