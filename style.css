@@ -107,3 +107,9 @@ img, iframe {
   padding-top: 80px;
   border-top: 2px solid #403933;
 }
+
+div {
+  width: 250px;
+    margin: auto;
+  padding: 20px;
+}
