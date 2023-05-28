@@ -79,8 +79,7 @@ h3 { font-size: 18px; }
 
 p, li {
  font-family: 'Montserrat', sans-serif;
- line-height: 1.5em;
- margin: 0;
+ line-height: 1.5em; 
 }
 
 a {
