@@ -16,7 +16,7 @@ body {
 }
 
 header {
-	height: 140px;
+	height: 160px;
 	background-color: #403933;
 	background-image:url(images/backgrounds/light-woodgrain-background.jpg);
 }
@@ -35,7 +35,7 @@ header h2 {
   font-family: 'Montserrat', serif;
   color: #E8C7DE;
   margin: 0px;
-  font-size: 18px;
+  font-size: 20px;
   text-align: center;
 }
 
