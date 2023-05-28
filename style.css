@@ -138,3 +138,9 @@ margin-top: 0;
 ol { 
 padding-inline-start: 0; 
 } 
+
+.text-center{
+   display: flex;
+    justify-content: center;
+    align-item: center 
+}
