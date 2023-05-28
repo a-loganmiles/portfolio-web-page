@@ -112,3 +112,11 @@ div {
   margin: auto;
   padding: 20px;
 }
+
+.centered {
+text-align: center;
+}
+
+.no-margin-top {
+margin-top: 0;
+}
