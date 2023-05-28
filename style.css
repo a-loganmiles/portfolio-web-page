@@ -24,7 +24,7 @@ header {
 .logo {
   font-family: 'Handlee', cursive;
   font-size: 72px;
-  color: #F68F46;
+  color: #102326;
   text-align: center;
   letter-spacing: -3;
   margin: 0;
@@ -32,21 +32,21 @@ header {
 }
 
 header h2 {
-	font-family: 'Montserrat', serif;
-	color: #658AA4;
-	margin: 0px;
-	font-size: 18px;
-	text-align: center;
+  font-family: 'Montserrat', serif;
+  color: #658AA4;
+  margin: 0px;
+  font-size: 18px;
+  text-align: center;
 }
 
 footer {
-	background-color: #403933;
-	background-image:url(images/backgrounds/light-woodgrain-background.jpg);
+  background-color: #403933;
+  background-image:url(images/backgrounds/light-woodgrain-background.jpg);
 
 }
 
 section {
-	padding: 0 25%;
+  padding: 0 25%;
   margin: 80px 0;
 }
 
@@ -54,7 +54,7 @@ section {
 
 h1, h2, h3 {
   font-family: 'Montserrat Alternates', sans-serif;
-	color: #403933;
+  color: #403933;
   text-align: center;
   font-weight: 500;
 }
@@ -70,15 +70,14 @@ p, li {
 }
 
 a {
-	font-weight: 700;
-	text-decoration: none;	
+  font-weight: 700;
+  text-decoration: none;	
 }
-a:link { color: #38786a; }
-a:visited { color: #38786a; }
-a:hover { color: #403933; }
-a:active { color: #403933; }
-a:hover {
-	text-decoration: underline;	
+  a:link { color: #38786a; }
+  a:visited { color: #38786a; }
+  a:hover { color: #403933; }
+  a:active { color: #403933; }
+  a:hover { text-decoration: underline;
 }
 
 em {
@@ -87,8 +86,8 @@ em {
 }
 
 footer p {
-	color: #102326;	
-	text-align: center;
+  color: #;	
+  text-align: center;
   padding: 30px;
   margin: 0;
 }
