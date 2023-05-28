@@ -57,8 +57,11 @@ footer {
 
 section {
   padding: 0 10%;
-  margin: 40px auto;
-  text-align: center; 
+  margin: 40px auto;  
+}
+
+.text-center {
+  text-align: center;
 }
 
 /* -------  Type ------- */
