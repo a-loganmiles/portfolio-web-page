@@ -128,17 +128,17 @@ div {
 }
 
 .centered {
-text-align: center;
+  text-align: center;
 }
 
 .no-margin-top {
-margin-top: 0;
+  margin-top: 0;
 }
 
 ol { 
-padding-inline-start: 0; 
+  padding-inline-start: 0; 
 } 
 
 ul {
-margin-left: 10%;
+  margin-left: 10%;
 }
