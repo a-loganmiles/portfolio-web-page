@@ -63,17 +63,10 @@ h1 { font-size: 28px; }
 h2 { font-size: 26px; }
 h3 { font-size: 18px; }
 
-p {
+p, li {
  font-family: 'Montserrat', sans-serif;
- text-align: center;
  line-height: 1.5em;
  margin-bottom: 0;
-}
-
-li {
-  font-family: 'Montserrat', sans-serif;
-  line-height: 1.5em;
-  margin-bottom: 0;	
 }
 
 a {
