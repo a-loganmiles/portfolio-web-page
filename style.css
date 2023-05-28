@@ -65,6 +65,7 @@ h3 { font-size: 18px; }
 
 p, li {
  font-family: 'Montserrat', sans-serif;
+ text-align: center;
  line-height: 1.5em;
  margin-bottom: 0;
 }
