@@ -49,6 +49,11 @@ img {
   border: 1px solid #c5c0b8;
 }
 
+main {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
 footer {
   background-color: #403933;
   background-image:url(images/backgrounds/light-woodgrain-background.jpg);
