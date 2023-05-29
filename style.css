@@ -123,7 +123,7 @@ img, iframe {
 /* -------  Modifier styles ------- */
 
 .border-top {
-  padding-top: 90%;
+  padding-top: 10%;
   border-top: 2px solid #403933;
 }
 
