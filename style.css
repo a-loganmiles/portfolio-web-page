@@ -123,7 +123,7 @@ img, iframe {
 /* -------  Modifier styles ------- */
 
 .border-top {
-  padding-top: 5%;
+  padding-top: 90%;
   border-top: 2px solid #403933;
 }
 
@@ -141,7 +141,7 @@ div {
 }
 
 ol { 
-  padding-inline-start: 0; 
+  padding-inline-start: 20; 
 } 
 
 ul {  
