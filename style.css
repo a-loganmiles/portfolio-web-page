@@ -25,8 +25,7 @@ header {
   font-family: 'Handlee', cursive;
   font-size: 72px;
   color: #102326;
-  text-align: center;
-  /* letter-spacing: -3; */
+  text-align: center; 
   margin: 0;
   padding: 20px 0 0 0;
 }
