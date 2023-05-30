@@ -54,10 +54,32 @@ main {
   margin-right: 20%;
 }
 
+div {  
+  margin: auto;
+  padding: 20px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.no-margin-top {
+  margin-top: 0;
+}
+
+ol { 
+  padding-inline-start: 0; 
+  margin-left: 5%;
+} 
+
+ul {  
+  margin-left: 10%;
+  margin-top: -2%;
+}
+
 footer {
   background-color: #403933;
   background-image:url(images/backgrounds/light-woodgrain-background.jpg);
-
 }
 
 section {
@@ -125,27 +147,4 @@ img, iframe {
 .border-top {
   padding-top: 2.5%;
   border-top: 2px solid #403933;
-}
-
-div {  
-  margin: auto;
-  padding: 20px;
-}
-
-.centered {
-  text-align: center;
-}
-
-.no-margin-top {
-  margin-top: 0;
-}
-
-ol { 
-  padding-inline-start: 0; 
-  margin-left: 5%;
-} 
-
-ul {  
-  margin-left: 10%;
-  margin-top: -2%;
 }
