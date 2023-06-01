@@ -81,7 +81,7 @@ footer {
   background-image:url(images/backgrounds/light-woodgrain-background.jpg);
 }
 
-section {
+article, section {
   padding: 0 10%;
   margin: 40px auto;  
 }
